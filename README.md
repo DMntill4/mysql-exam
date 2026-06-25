@@ -1,5 +1,12 @@
 # Pizzería DB — Documentación del Proyecto
 
+### Pasos para ejecutar
+1. Tener MySQL Workbench instalado 8.0+
+2. Darle a importar archivo MYSQL > DDL_datos 
+3. Importar DDL_datos_prueba
+4. Ejecutar primero datos, luego datos de prueba y realizar consultas.
+
+
 ### Entidades principales
 
 | Entidad | Descripción |
